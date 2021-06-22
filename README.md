@@ -3,6 +3,9 @@ This project is basically useful for elderly peoples for help them to live healt
 
 In this app people can find the guidance to maintain Balanced Diet, tips for Yoga and Exercises, how to prevent our-self from Infection. We are also added Diseases section where people can know the diseases from symptoms and also added one profile section where people can save and read their personal information.
 
+<b>To See the main code follow:</b>
+
+
 <b>ScreenShots</b>
 
 <p align="center">
