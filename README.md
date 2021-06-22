@@ -4,7 +4,13 @@ This project is basically useful for elderly peoples for help them to live healt
 In this app people can find the guidance to maintain Balanced Diet, tips for Yoga and Exercises, how to prevent our-self from Infection. We are also added Diseases section where people can know the diseases from symptoms and also added one profile section where people can save and read their personal information.
 
 <b>To See the main code follow:</b>
-
+1 . XML Code
+    app -> src -> main -> res -> layout
+    In layout you can find all XML files which are used for UI design.
+    
+2. Java Code
+    app -> src -> main -> java/com/example/elderlycaresystem 
+    In this folder you can find all JAVA files which are used for back end design.
 
 <b>ScreenShots</b>
 
