@@ -13,6 +13,10 @@ In this app people can find the guidance to maintain Balanced Diet, tips for Yog
     app -> src -> main -> java/com/example/elderlycaresystem 
     In this folder you can find all JAVA files which are used for back end design.
     
+<b>About Technology :</b>
+    To design the UI for this app XML is used and for backend purpose JAVA language is used.
+    In "Profile Section" user can save their personal information so for that purpose SQLite Database is used.
+    
 <b>The apk file is uploaded named as "ElderlyCareSystem.apk" in main directory. You can download and install that apk.</b>    
 
 <b>ScreenShots</b>
