@@ -4,3 +4,10 @@ This project is basically useful for elderly peoples for help them to live healt
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86216403/122861284-d03ba380-d33c-11eb-9310-fa9f31646858.jpg" width="750" height="550" title="hover text">
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86216403/122861395-01b46f00-d33d-11eb-950b-2cfd5ffae793.jpg" width="750" height="550" title="hover text">
+</p><p align="center">
+  <img src="https://user-images.githubusercontent.com/86216403/122861496-33c5d100-d33d-11eb-96a6-b5e897123d25.jpg" width="375" height="550" title="hover text">
+</p>
+
+
