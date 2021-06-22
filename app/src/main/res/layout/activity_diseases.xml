@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Diseases"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:elevation="5dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/headerColor"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <TextView
+                android:id="@+id/customerName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="back"
+                android:drawableLeft="@drawable/ic_back"
+                android:text="  Diseases"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Diseases and Conditions Index"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="18dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1. Cold"
+                    android:layout_marginTop="10dp"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/cold_diseases"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/cold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="2. Abdominal Pain"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/abdominal_pain"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/abdominal_pain"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3. High blood pressure affects 58% of seniors"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/blood_pressure"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/bp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="4. High cholesterol affects 47% of seniors"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/high_cholesterol"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/cholesterol"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="5. Coronary heart disease"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/heart_disease"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/heart"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="6. Diabetes"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:textColor="@android:color/holo_blue_light"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:src="@drawable/diabetes_disease"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/diabetes"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

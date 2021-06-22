@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash_Screen"
+    android:background="@drawable/gradient_background">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_house"
+        android:layout_above="@+id/text"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Elderly Care\nSystem"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        android:textSize="30dp"
+        android:fontFamily="sans-serif-black"
+        android:layout_centerVertical="true"/>
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/text"
+        android:src="@drawable/ic_elderly"
+        android:layout_marginTop="10dp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_below="@+id/icon"
+        android:layout_centerHorizontal="true"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="80dp"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:indeterminate="true"
+        android:progress="10"/>
+
+</RelativeLayout>

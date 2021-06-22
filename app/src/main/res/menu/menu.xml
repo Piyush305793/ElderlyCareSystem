@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/dashboard"
+            android:title="Home"
+            android:icon="@drawable/ic_house" />
+
+        <item android:id="@+id/menu1"
+            android:title="Basic Tips"
+            android:icon="@drawable/ic_tips" />
+
+        <item android:id="@+id/menu2"
+            android:title="Balanced Diet"
+            android:icon="@drawable/ic_bal_diet" />
+
+        <item android:id="@+id/menu3"
+            android:title="Yoga &amp; Exercise"
+            android:icon="@drawable/ic_yoga" />
+
+        <item android:id="@+id/menu4"
+            android:title="Prevent Infections"
+            android:icon="@drawable/ic_mask" />
+
+        <item android:id="@+id/menu5"
+            android:title="Diseases"
+            android:icon="@drawable/ic_baseline_local_hospital_24" />
+
+        <item android:id="@+id/menu6"
+            android:title="Profile"
+            android:icon="@drawable/ic_profile" />
+
+    </group>
+
+</menu>

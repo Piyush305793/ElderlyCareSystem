@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Elderly Care System</string>
+    <string name="navigation_draw_open">open navigation drawer</string>
+    <string name="navigation_draw_close">close navigation drawer</string>
+
+    <string name="get_active">
+    \t\t\tPhysical activity is an immune system booster. The more you move, the more your body is able to fight inflammation and infections.
+
+    \n\n\t\t\tThe activity you partake in doesn’t have to be strenuous. Low impact exercises are effective, too.
+
+    \n\n\t\t\tYou might consider biking, walking, swimming, or low impact aerobics. If you’re able to, engage in moderate intensity exercise for about 20 to 30 minutes a day to reach the recommended total of 150 minutes a weekTrusted Source. Also, strengthen your muscles by lifting weights or doing yoga.
+
+    \n\n\t\t\tModify your exercise routine to find what feels best for you.</string>
+
+    <string name="take_supplements">
+        \t\t\tSome supplements help support a healthy immune system. Before taking a supplement, always ask your doctor if it’s safe, especially if you’re taking a prescription medication. Some supplements they may recommend include calcium, vitamin D, vitamin B6, or vitamin B12.
+    </string>
+
+    <string name="healthy_diet">
+        \t\t\tDiets rich in fruits, vegetables, and lean meats also give your immune system a boost and protect against harmful viruses and bacteria that cause illnesses. Fruits and vegetables are a good source of antioxidants. Antioxidants protect your cells from damage and keep your body healthy.
+
+    \n\n\t\t\tYou should also limit your consumption of sugary and fatty foods, which can trigger inflammation in the body and lower your immune system.
+    </string>
+
+    <string name="wash_hands">
+        \t\t\tWashing your hands on a regular basis is another excellent way to stay healthy year-round. Viruses can live on surfaces for up to 24 hours. It’s possible to become ill if you touch a virus-covered surface and contaminate your hands, and then touch your face.
+
+    \n\n\t\t\tWash your hands with warm soapy water often, and for at least 20 seconds. Avoid touching your nose, face, and mouth with your hands.
+    </string>
+
+    <string name="take_rest">
+        \t\t\tNot only can sleep reduce your stress level, but sleep is how your body repairs itself. For this reason, getting an adequate amount of sleep can result in a stronger immune system, making it easier for your body to fight off viruses.
+
+    \n\n\t\t\tSleep is also important as you get older because it can improve memory and concentration. Aim for at least seven and a half to nine hours of sleep per night.
+
+    \n\n\t\t\tIf you have trouble sleeping, talk to your doctor to find the underlying cause. Causes of insomnia can include inactivity during the day and too much caffeine. Or it can be a sign of a medical condition like sleep apnea or restless leg syndrome.
+    </string>
+
+    <string name="bal_diet">
+        \t\t\tEating a well-balanced diet is an important part of staying healthy as you age. It can help you maintain a healthy weight, stay energized, and get the nutrients you need. It also lowers your risk of developing chronic health conditions, such as heart disease and diabetes.
+    </string>
+
+    <string name="bal_diet_text">
+As you get older, your nutritional needs, appetite, and food habits can change in several ways.\n\n
+
+        <b><u>Calories</u></b>
+\n\n\t\t\tYou’ll probably need fewer calories as you age to maintain a healthy weight. Eating more calories than you burn leads to weight gain.
+
+\n\n\t\t\tYou may find you have less energy and more muscle or joint problems as you get older. As a result, you may become less mobile and burn fewer calories through physical activity. You may also lose muscle mass. This causes your metabolism to slow down, lowering your caloric needs.
+
+        \n\n\n<b><u>Appetite</u></b>
+\n\n\t\t\tMany people experience a loss of appetite with age. It’s also common for your sense of taste and smell to diminish. This can lead you to eat less.
+
+\n\n\t\t\tIf you’re burning fewer calories through physical activity, eating less may not be a problem. However, you need to get enough calories and nutrients to maintain healthy organs, muscles, and bones. Not getting enough can lead to malnutrition and health problems.
+
+        \n\n\n<b><u>Medical Conditions</u></b>
+\n\n\t\t\tAs you age, you become more susceptible to chronic health problems, such as diabetes, high blood pressure, high cholesterol, and osteoporosis. To help prevent or treat these conditions, your doctor may recommend changes to your diet.
+
+\n\n\t\t\tFor example, if you’ve been diagnosed with diabetes, high blood pressure, or high cholesterol, you should eat foods that are rich in nutrients, but low in excess calories, processed sugars, and saturated and trans fats. Your doctor may also advise you to eat less sodium.
+
+\n\n\t\t\tSome older adults become sensitive to foods such as onions, peppers, dairy products, and spicy foods. You may need to cut some of these foods out of your diet.
+
+        \n\n\n<b><u>Medications</u></b>
+\n\n\t\t\tYou may need to take medications to manage chronic health conditions. Some medications can affect your appetite. Some can also interact with certain foods and nutritional supplements.
+
+\n\n\t\t\tFor example, if you’re taking warfarin (Coumadin), you need to avoid grapefruit. It decreases your body’s ability to metabolize the drug. You also need to maintain a steady level of vitamin K in your diet. You can get vitamin K from eating plenty of spinach, kale, or other leafy greens.
+
+\n\n\t\t\tIf you’re taking a medication, be sure to check with your doctor or pharmacist to find out whether you need to make any changes to your diet.
+
+    \n\n\n<b><u>Oral Health</u></b>
+\n\n\t\t\tSeniors have their own set of oral health concerns. Some of these can interfere with your ability to eat. For example, dentures that don’t fit properly may lead to poor eating habits and malnutrition. Infections in your mouth can also cause problems.
+
+    \n\n\n<b><u>Immune System</u></b>
+\n\n\t\t\tYour immune system weakens with age. This raises your risk of food-borne illness, or food poisoning.
+
+\n\n\t\t\tProper food safety techniques are important at every age. However, you may need to take extra precautions as your immune system weakens. For example, your doctor may recommend avoiding foods with raw eggs, such as homemade mayonnaise or Caesar salad dressing.
+
+
+    </string>
+
+    <string name="YandT">
+        \t\t\tOur biology changes as we get older, causing seniors to have different reasons for staying in shape than younger generations. Though physical fitness provides benefits at any age, the health perks physically fit seniors enjoy are more notable. Physicians and researchers say seniors should remain as active as possible, without overexerting one’s self. In older adults, exercise helps you live a longer, healthier, and more joyous life.
+    </string>
+    <string name="chair_yoga">
+        \t\t\tLike water aerobics, chair yoga is a low-impact form of exercise that improves muscle strength, mobility, balance and flexibility, all of which are crucial health aspects for seniors. Chair yoga is an accessible form of yoga that provides less stress on muscles, joints, and bones than more conventional forms of yoga.
+
+    \n\n\t\t\tAs an added bonus, chair yoga has been shown to improve mental health in older adults. Regular chair yoga participants have better quality sleep, lower instances of depression, and report a general sense of well-being.
+        \n\nGreat chair yoga exercises for seniors include:
+        \n1] Overhead stretch \n2] Seated cow stretch \n3] Seated cat stretch \n 4] Seated mountain pose \n5] Seated twist
+    </string>
+    <string name="rBand">
+        \t\t\tResistance bands are stretchy strips of rubber that add resistance to workouts with reduced stress on your body. Resistance band workouts are user-friendly, and accessible for beginners. This form of exercise is growing more popular among seniors because of the relatively cheap up-front costs of materials, which makes resistance band workouts ideal for at-home exercise. Additionally, these exercises are ideal for strengthening your core, which improves posture, mobility, and balance.
+
+        \n\nResistance band workouts for seniors include:
+        \n1] Leg press \n2] Triceps press \n3] Lateral raise \n 4] Bicep curl \n5] Band pull apart
+    </string>
+    <string name="walking">
+        \t\t\tOne of the least stressful and accessible forms of exercise is walking. For some seniors, walking is a bigger challenge than others, so distance and step goals differ from person to person. For the general population, <b>10,000 steps per day</b> is advised for a healthy lifestyle, but those with difficulty walking or joint pain may settle for a smaller number as a goal. A PLOS One study found that walking 10,000 steps lowered the ten-year outlook for mortality by 46%. Walking promotes a healthy lifestyle, while strengthening muscles, <b>lowering your risk of heart disease, stroke, diabetes, and colon cancer.</b>
+        \n\nIdeas for walking exercises for seniors:
+        \n1] Find a moderate trail through a park \n2] Find a walk-friendly race to train for \n3] Walk the perimeter of a familiar building
+        \n 4] Find an audiobook or a playlist for stimulation during your walk
+    </string>
+    <string name="tadasana">
+        \t\t\tProbably the most simple yet helpful for the nervous system, Tadasana is the most sought after yoga exercise to boost immunity. It improves body posture and creates flexibility in the thighs and joints. Apart from being the best yoga poses to boost the immune system, it also helps to tone the abdomen and body muscles.
+        \n\n<b>Here is how to do:</b>
+        \nStand on your yoga mat, and place your feet slightly apart from each other.
+        \nHands in perfect alignment with your body.
+        \nInhale deeply, and slowly raise the arms upward then interlock the fingers.
+        \nLift your heels and stand on the toes.
+        \nStretch your body while looking in an upward direction.
+        \nPlace your body weight on the toes and strength the rest of the body up.
+        \nHold this pose for few seconds.
+        \nExhale and return to the initial stage.
+    </string>
+    <string name="anulom_vilom">
+        \t\t\tIn this sedentary lifestyle, people are getting frustrated just because of the fast life. So everyone needs to find some time to invest in making their health better because health is wealth. There are numerous health techniques that you can opt to keep your self healthy. But the most effective and preferred method is Anulom Vilom Pranayama. Scratching your mind thinking about the word Anulom Vilom? Its a popular breathing exercise which is also known as traditional yoga, people usually do to calm the mind and body.
+        \n\n\t\t\t‘Anulom’ translates as with the grain and ‘Vilom’ means ‘against the grain’. These are the best exercises that everyone must do to keep themselves healthy and calm. Anulom Vilom is basically deep breath inhalation and exhalation while alternating between the right and left nostril with the help of using fingers.
+    </string>
+
+    <string name="infection_prevention">
+        \t\t\tHome care has many benefits for the patient and their family members. Seniors have the company of the people they love and spend their days surrounded by familiar objects. The family can monitor the care of their loved one and have more time to spend with them.
+
+        \n\t\t\tMany family members take on the role of caregiver without any prior medical experience. The lack of training can cause some concerns. Infection control is one of the most serious issues everyone should learn about when they have an elderly family member convalescing at home.
+    </string>
+    <string name="infection_prevention1">
+        <b>Importance of Infection Control</b>
+    \n\n\t\t\tGood infection control practices reduce hospitalizations and save lives. One-third of all deathsin people over the age of 65 is due to infectious diseases. Seniors have weaker immune systems due to their age and can become even more susceptible to infection when they are ill.
+
+        \n\n<b>Types of Potential Infections</b>
+    \n\n\t\t\tSkin infections, urinary tract infections (UTIs), and infectious diseases like influenza and pneumonia are the biggest risk factors for seniors. Even more worrisome is the risk of sepsis that can develop when other infections begin.
+
+    \n\n\t\t\tSepsis is a life-threatening overreaction of the body to an infection, which develops quickly and causes extensive damage. About 65 percentof hospitalized sepsis cases are elderly patients, and about one-third of sepsis sufferers worldwide do not survive. The condition can restrict blood flow to the organs and lead to their failure.
+
+        \n\n<b>Symptoms of Possible Infection</b>
+    \n\n\t\t\tThe signs of problems like pneumonia and skin infection are common enough for most people to identify easily. UTI infections in the elderly do not cause the symptoms people normally expect. In seniors, the symptoms are often behavioral changes rather than physical issues, and these changes can include agitation, hallucinations, and confusion among others.
+
+    \n\n\t\t\tSepsis symptoms include a change in body temperature to either higher or lower than the normal readings. Warning signs include a fever of 101.3 degrees or higher and low temperatures of 95 degrees or below. Other sepsis symptoms include a rapid heartbeat, rapid breathing, and confusion or shaking.
+
+        \n\n<b>Methods to Prevent Infections</b>
+    \n\n\t\t\tHand washing is still one of the best ways to reduce the spread of infectious diseases. Anyone with a cold or another communicable disease should wear a face mask and gloves when they care for an elderly loved one. Wash bedding often and keep items like thermometers and other medical supplies sterilized.
+
+    \n\n\t\t\tClean and cover all cuts, scratches, or other lesions. Even minor wounds can become infected in someone with a weakened immune system. Some dementia patients may even pick at uncovered wounds. Check the blemishes daily and seek medical treatment if signs of infection, like redness or swelling, begin.
+
+    \n\n\t\t\tRegularly inspect their feet because they can also suffer from foot infections too. Diabetics have an even greater risk of this type of concern. Keep the feet clean and be cautious not to puncture the skin when trimming nails.
+
+    \n\n\t\t\tVaccinations against infectious diseases can reduce the risk of illness. Insist on flu and pneumonia vaccinations as well as the shingles vaccine for anyone susceptible to the disease. Antiviral medications can help to reduce the severity of the flu and antibiotics can help with pneumonia recovery.
+
+    \n\n\t\t\tGet professional help with any medical care where mistakes could cause an infection. For example, caring for open wounds, catheter insertion, or cleaning around implanted ports. Ask a home health provider for help or guidance with the process.
+
+    \n\n\t\t\tInfections cause pain and risk, and that is exactly what loved ones want to prevent by having their family member at home. A control plan lowers the chance of infections. A Visiting Redi Nursecan also help. Our professional home caregivers have the experience and skills to keep your loved one safe and comfortable. Contact us for more information.</string>
+
+    <string name="cold">
+        \t\t\tThe common cold is an upper respiratory tract infection caused by many different viruses.
+        The common cold is transmitted by virus-infected airborne droplets or by direct contact with infected secretions.
+        \n\nTypical common cold symptoms include :
+        \n\n\t\t\t1] cough,
+        \n\n\t\t\t2] sore throat,
+        \n\n\t\t\t3] coughing,
+        \n\n\t\t\t4] sneezing, and
+        \n\n\t\t\t5] a runny nose.
+        \n\n\t\t\tBeing in cold weather does not cause the common cold, but cold weather promotes close contact.
+        Over-the-counter medications may be used for the treatment of the common cold.
+        Antibiotics are not necessary for the common cold.
+        \n\n<b>Tips to Prevent The Common Cold</b>
+        \n\n\t\t\tWhile it is impossible to completely prevent the spread of colds, there are steps you can take to reduce your and your family chances of becoming infected with a virus that causes colds:
+
+        \n\n\t\t\t1] Wash your hands often.
+        \n\n\t\t\t2] Avoid touching your face, especially the nose, mouth, and eye areas.
+        \n\n\t\t\t3] Do not smoke.
+        \n\n\t\t\t4] Use disposable items if someone in your family is infected.
+        \n\n\t\t\t5] Keep household surfaces clean.
+        \n\n\t\t\t6] If your child has a cold, wash his or her toys as well.
+        \n\n\t\t\t7] Use paper towels in the kitchen and bathroom for drying hands after hand washing.
+        \n\n\t\t\t8] Throw tissues away after use.
+        \n\n\t\t\t9] Maintain a healthy lifestyle.
+        \n\n\t\t\t10] Control stress.
+    </string>
+    <string name="abdominal_pain">
+        \t\t\tAbdominal (belly) pain is pain or discomfort that is felt in the part of the trunk below the ribs and above the pelvis.
+        It comes from organs within the abdomen or organs adjacent to the belly.
+        It is caused by inflammation, distention of an organ, or by loss of the blood supply to an organ.
+        \n\n\t\t\tIn irritable bowel syndrome (IBS) it may be caused by contraction of the intestinal muscles or hyper-sensitivity to normal intestinal activities.
+        \n\nSymptoms associated with it may include :
+        \n\n\t\t\t1] Bloating
+        \n\n\t\t\t2] Belching
+        \n\n\t\t\t3] Gas (flatus, farting)
+        \n\n\t\t\t4] Indigestion
+        \n\n\t\t\t5] Discomfort in the upper left or right; middle; or lower left or right abdomen
+        \n\n\t\t\tThe cause of abdominal pain is diagnosed on the basis of its characteristics, physical examination, and testing. Occasionally, surgery is necessary for diagnosis.
+        \n\n\t\t\tThe medical diagnosis of the cause is challenging because the characteristics may be atypical, tests are not always abnormal, diseases causing pain may mimic each other, and the characteristics of the pain may change over time.
+        \n\n<b>Abdominal Pain Causes</b>
+        \n\n\t\t\tAbdominal pain is a common symptom, and most people have experienced some sort of abdominal pain (belly or stomach pain). Causes of more serious causes of abdominal pain include:
+        \n\n\t\t\t1] Bloody stools
+        \n\n\t\t\t2] Black tarry stools
+        \n\n\t\t\t3] Dehydration
+        \n\n\t\t\t4] Painful urination
+        \n\n\t\t\t5] Lack of urination
+        \n\n\t\t\t6] Abrupt cessation of bowel movements
+        \n\n\t\t\t7] Dehydration
+        \n\n<b>Medications</b>
+        \n\n\t\t\tMedications that are used for the treatment of underlying cause(s) of the pain are the medications of choice. For example, medications are not needed for the treatment of simple viral gastroenteritis (stomach flu or stomach bug),
+        while surgery and/or chemotherapy may be the best approach to treat certain cancers in the abdomen. Other causes may require antispasmodics, antimicrobials, H2 blockers, or even nitrates or morphine. The diagnosed cause usually narrows the
+        choice of medications. A few causes can only be treated by surgery (for example incarcerated hernia, abdominal adhesions from previous surgeries, and certain abdominal injuries), although some medications may be used (for example, morphine)
+        while the person is waiting to have surgery.
+    </string>
+    <string name="bp">
+        \t\t\tHigh blood pressure (also known as HBP or hypertension) is a serious condition that affects 58% of seniors on Medicare. It’s often called the “silent killer” because it has no symptoms.
+        But it damages blood vessels and increases the risk of serious (and sometimes fatal) conditions like stroke and heart attack.
+        \n\nPrevent or reduce high blood pressure by:
+        \n\n\t\t\t1] Maintaining a healthy weight
+        \n\n\t\t\t2] Reducing stress
+        \n\n\t\t\t3] Limiting salt and alcohol
+        \n\n\t\t\t4] Exercising regularly (daily, if possible)
+        \n\n\t\t\t5] Check blood pressure regularly to monitor progress or detect pre-hypertension
+    </string>
+    <string name="cholesterol">
+        \t\t\tNearly half of all seniors on Medicare were treated for high cholesterol. When the body has too many bad fats, arteries get clogged and cause heart disease.
+        \n\nPrevent or manage high cholesterol by:
+        \n\n\t\t\t1] Quitting smoking
+        \n\n\t\t\t2] Reducing the amount of alcohol consumed
+        \n\n\t\t\t3] Staying active and/or exercising regularly
+        \n\n\t\t\t4] Maintaining a healthy weight
+        \n\n\t\t\t5] Eating less saturated and trans fats
+    </string>
+    <string name="heart">
+        \t\t\tCoronary heart disease (also called ischemic heart disease) is caused when plaque builds up in the arteries leading to the heart.
+        That decreases the amount of blood going to the heart and can cause additional complications like blood clots, angina, or heart attack.
+        \n\nPrevent or manage coronary heart disease by:
+        \n\n\t\t\t1] Limiting saturated and trans fats, sugar, and salt
+        \n\n\t\t\t2] Sleeping 7-8 hours each night
+        \n\n\t\t\t3] Reducing stress
+        \n\n\t\t\t4] Exercising regularly
+        \n\n\t\t\t5] Not smoking
+        \n\n\t\t\t6] Talk to the doctor about managing major risk factors, like high cholesterol and high blood pressure
+    </string>
+    <string name="diabetes">
+        \t\t\tWhen someone has diabetes, the level of glucose in their blood (blood sugar) is too high. This can happen when the body doesn’t make enough insulin.
+        When there isn’t enough insulin, glucose doesn’t get moved into the cells of the body. Instead, it builds up in the blood and causes high blood sugar.
+        \n\n\t\t\tOver time, high blood sugar seriously damages the eyes, kidneys, nerves, heart, gums, teeth, nerves, and blood vessels.
+        This leads to health conditions like heart disease, stroke, blindness, kidney disease, nerve problems, gum infections, and amputation.
+        \n\n\t\t\tPeople with diabetes are also more likely to have heart disease or a stroke, and at an earlier age.
+        \n\nPrevent or manage diabetes by:
+        \n\n\t\t\t1] Eating a healthy diet and talking to the doctor about alcohol consumption
+        \n\n\t\t\t2] Exercising regularly – 30 minutes, 5 times/week to keep blood sugar levels in check and control weight
+        \n\n\t\t\t3] Losing 5-7 % of body weight if diagnosed with pre-diabetes
+    </string>
+
+</resources>
