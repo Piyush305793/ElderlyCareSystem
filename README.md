@@ -12,6 +12,8 @@ In this app people can find the guidance to maintain Balanced Diet, tips for Yog
 <b>2. Java Code</b><br>
     app -> src -> main -> java/com/example/elderlycaresystem 
     In this folder you can find all JAVA files which are used for back end design.
+    
+<b>The apk file is uploaded named as "ElderlyCareSystem.apk". You can download in install that apk.</b>    
 
 <b>ScreenShots</b>
 
