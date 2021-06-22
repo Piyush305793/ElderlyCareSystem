@@ -5,11 +5,11 @@ In this app people can find the guidance to maintain Balanced Diet, tips for Yog
 
 <b>To See the main code follow:</b>
 
-<b>1 . XML Code</b>
+<b>1 . XML Code</b><br>
     app -> src -> main -> res -> layout
     In layout you can find all XML files which are used for UI design.
     
-<b>2. Java Code</b>
+<b>2. Java Code</b><br>
     app -> src -> main -> java/com/example/elderlycaresystem 
     In this folder you can find all JAVA files which are used for back end design.
 
